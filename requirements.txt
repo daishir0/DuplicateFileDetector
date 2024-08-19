@@ -1,0 +1,2 @@
+# No additional libraries are required for this script.
+# It uses only Python standard libraries.
